@@ -60,3 +60,7 @@ systemctl start docker
 
 # install git
 yum install -y git
+
+# htop utility
+yum install -y epel-release
+yum install -y htop

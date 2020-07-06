@@ -1,0 +1,11 @@
+.vagrant/ # ignore the dir Vagrant created
+.vagrant/machines/client/virtualbox/action_provision
+.vagrant/machines/client/virtualbox/action_set_name
+.vagrant/machines/client/virtualbox/box_meta
+.vagrant/machines/client/virtualbox/creator_uid
+.vagrant/machines/client/virtualbox/id
+.vagrant/machines/client/virtualbox/index_uuid
+.vagrant/machines/client/virtualbox/private_key
+.vagrant/machines/client/virtualbox/synced_folders
+.vagrant/machines/client/virtualbox/vagrant_cwd
+.vagrant/rgloader/loader.rb

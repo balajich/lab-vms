@@ -9,3 +9,13 @@
 .vagrant/machines/client/virtualbox/synced_folders
 .vagrant/machines/client/virtualbox/vagrant_cwd
 .vagrant/rgloader/loader.rb
+base-centos-vm/.vagrant/machines/basevm1/virtualbox/action_provision
+base-centos-vm/.vagrant/machines/basevm1/virtualbox/action_set_name
+base-centos-vm/.vagrant/machines/basevm1/virtualbox/box_meta
+base-centos-vm/.vagrant/machines/basevm1/virtualbox/creator_uid
+base-centos-vm/.vagrant/machines/basevm1/virtualbox/id
+base-centos-vm/.vagrant/machines/basevm1/virtualbox/index_uuid
+base-centos-vm/.vagrant/machines/basevm1/virtualbox/private_key
+base-centos-vm/.vagrant/machines/basevm1/virtualbox/synced_folders
+base-centos-vm/.vagrant/machines/basevm1/virtualbox/vagrant_cwd
+base-centos-vm/.vagrant/rgloader/loader.rb
